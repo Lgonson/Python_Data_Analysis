@@ -12,6 +12,10 @@ This repository contains the following projects:
 - **Goal**: Understand key population trends across different regions.
 - **Main Tasks**: Loading data, initial exploration, and basic visualizations.
 
+## 📷 Example Visualization
+![Evolution of Population by Continent](https://github.com/Lgonson/Python_Data_Analysis/blob/main/images/Evolution_of_Population_Continent.png)
+![Evolution of Population by Country](https://github.com/Lgonson/Python_Data_Analysis/blob/main/images/Evolution_of_Population_by_Country.png)
+
 ### 2️⃣ Data Cleaning Project
 - **Description**: Data cleaning process applied to the **Customer Call** dataset.
 - **Goal**: Clean and prepare raw data for further analysis.
@@ -22,6 +26,11 @@ This repository contains the following projects:
 - **Goal**: Explore job market trends, salary distributions, and required skills.
 - **Main Tasks**: Data cleaning, exploration, and visualization.
 
+## 📷 Example Visualization
+![Requirements for Data Analyst Positions](https://github.com/Lgonson/Python_Data_Analysis/blob/main/images/Requirements_Data_Analyst.png)
+![Job Postings per Company in the US](https://github.com/Lgonson/Python_Data_Analysis/blob/main/images/Jobs_Postings_per_Company_in_the_US.png)
+![Job Skills](https://github.com/Lgonson/Python_Data_Analysis/blob/main/images/Job_Skills.png)
+
 ---
 
 ## 🛠️ Tools & Libraries
@@ -30,9 +39,8 @@ This repository contains the following projects:
 - 📊 **Matplotlib**: Data visualization
 - 🎨 **Seaborn**: Statistical data visualization
 
----
 
-## 📷 Example Visualization
+
 
 
 
